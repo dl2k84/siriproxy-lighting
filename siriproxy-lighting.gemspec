@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ["dl2k84"]
   s.email       = ["dl2k84 * gmail {dot} com (replace * with the at symbol)"]
   s.homepage    = ""
-  s.summary     = %q{An Example Siri Proxy Plugin}
+  s.summary     = %q{Lighting home automation via SiriProxy}
   s.description = %q{Turns on/off lights at home using. The maker of the sent byte codes via IR is NEC so you will have to modify the codes if your maker differs. }
 
   s.rubyforge_project = "siriproxy-lighting"
